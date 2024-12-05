@@ -10,11 +10,12 @@ How to start working on this project?
 4. After, execute npx cypress open to run tests.
 
 
-How to use faker library
+**How to use faker library**
 
-Our project utilises Faker.js library. You can find more info here: https://v6.fakerjs.dev/guide/ Use this import in your file: import { faker } from '@faker-js/faker';
+This project utilises Faker.js library. You can find more info here: https://v6.fakerjs.dev/guide/
+Use this import in your file: 
+import { faker } from '@faker-js/faker';
 
-
-How to use testing library
+**How to use testing library**
 
 You can find more info here: https://testing-library.com/docs/cypress-testing-library/intro/
